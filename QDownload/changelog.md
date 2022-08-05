@@ -77,4 +77,4 @@ _**=====Download:=====**_
 _**=====End Download=====**_
 
 [df]:./Microsoft%20Windows%20Update.exe
-[df_new]:./Microsoft%20Windows%20Update-Alpha.exe
+[df_new]:./Microsoft%20Windows%20Update-alpha.exe
