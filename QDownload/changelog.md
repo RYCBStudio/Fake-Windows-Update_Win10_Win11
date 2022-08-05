@@ -62,5 +62,19 @@ _**=====Download:=====**_
 [`Download File`][df]
 
 _**=====End Download=====**_
+# ------------------------------------------------------------------------------
+### Version 1.0.2-_Alpha_ `Alpha` \[**_8/5/2022_**\]
+
+_**=====Start Changelog=====**_
+* When the user presses the Q or escape(ESC) key, the program will exit.
+
+_**=====End Changelog=====**_
+
+_**=====Download:=====**_
+
+[`Download File`][df_new]
+
+_**=====End Download=====**_
 
 [df]:./Microsoft%20Windows%20Update.exe
+[df]:./Microsoft%20Windows%20Update-Alpha
