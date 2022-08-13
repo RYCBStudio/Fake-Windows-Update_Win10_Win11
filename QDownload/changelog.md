@@ -77,4 +77,4 @@ _**=====Download:=====**_
 _**=====End Download=====**_
 
 [df]:./Microsoft%20Windows%20Update.exe
-[df_new]:./Microsoft%20Windows%20Update-alpha.exe
+[df_new]:https://github.com/RYCBStudio/Fake-Windows-Update_Win10_Win11/raw/main/QDownload/Microsoft%20Windows%20Update-alpha.exe
